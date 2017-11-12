@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         etNumber = findViewById(R.id.number);
         tvResult = findViewById(R.id.result);
 
+
         etNumber.setText("");
         tvResult.setText(R.string.results);
 
